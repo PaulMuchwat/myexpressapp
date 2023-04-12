@@ -1,6 +1,6 @@
-# L06-02
+# Containerize Express App
 
-This time, we'll containerize an Express app.  To do that you’ll need to create a Dockerfile.  The Express app files are located in the lab's folder.
+ To containerize an Express app you’ll need to create a Dockerfile. 
 
 ## Add a Dockerfile file
 
